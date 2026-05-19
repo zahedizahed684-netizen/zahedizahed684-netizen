@@ -40,9 +40,9 @@
 ### 📊 System Telemetry & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffcc&icon_color=00ffcc&text_color=a9b1d6&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zahedizahed684-netizen&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffcc&icon_color=00ffcc&text_color=a9b1d6&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zahedizahed684-netizen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
